@@ -1,6 +1,12 @@
 # Bayesian Neural Networks
 
+## Week 3 (8 Feb - 14 Feb)
+
+- [BNN: a tutorial](https://wjmaddox.github.io/assets/BNN_tutorial_CILVR.pdf) from NYU
+
 ## Week 2 (1 Feb - 7 Feb)
+
+- [NIPS2020 tutorial on Uncertainty Estimation in Deep Learning](https://slideslive.com/38935801/practical-uncertainty-estimation-outofdistribution-robustness-in-deep-learning)
 
 ## Week 1 (24 Jan - 31 Jan)
 
