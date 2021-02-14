@@ -3,6 +3,7 @@
 ## Week 3 (8 Feb - 14 Feb)
 
 - [BNN: a tutorial](https://wjmaddox.github.io/assets/BNN_tutorial_CILVR.pdf) from NYU
+- [The case for Bayesian Deep Learning](https://cims.nyu.edu/~andrewgw/caseforbdl.pdf) by Andrew Gordon Wilson
 
 ## Week 2 (1 Feb - 7 Feb)
 
