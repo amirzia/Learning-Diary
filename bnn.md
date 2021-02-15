@@ -4,6 +4,7 @@
 
 - [BNN: a tutorial](https://wjmaddox.github.io/assets/BNN_tutorial_CILVR.pdf) from NYU
 - [The case for Bayesian Deep Learning](https://cims.nyu.edu/~andrewgw/caseforbdl.pdf) by Andrew Gordon Wilson
+- ICML 2020 Tutorial: [Bayesian Deep Learning and Probabilistic Model Construction](https://www.youtube.com/watch?v=E1qhGw8QxqY) by A. G. Wilson
 
 ## Week 2 (1 Feb - 7 Feb)
 
